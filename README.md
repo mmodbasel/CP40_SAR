@@ -1,4 +1,4 @@
-# Compstatin_SAR
+# CP40 SAR
 
 This repository contains the source code of the program interaction-analyzer.x to evaluate the per-residue intramolecular and intermolecular hydrogen bonding and hydrophobic interactions of C3b with Cp40 and analogues thereof.
 The calculation of the hydrophobic interaction component is based on the hydrophobicity score by Li et al. (DOI: [10.1002/prot.23106](https://doi.org/10.1002/prot.23106)). In our implementation, the backbone carbonyl carbon atoms are not  considered hydrophobic. The directional H-bonding interaction components are calculated using parameters by Vedani et al. (DOI: [10.1021/ja00168a021](https://doi.org/10.1021/ja00168a021)). 
