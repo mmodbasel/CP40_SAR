@@ -31,5 +31,5 @@ The program prints all individual interaction energies between ligand and protei
 
 ## Reference
 
-When using this source code, please cite the following paper: *to be filled*
+When using this source code, please cite the following paper: "Insight into mode-of-action and structural determinants of the compstatin family of clinical complement inhibitors", *Nature Communications*, 2022
 
